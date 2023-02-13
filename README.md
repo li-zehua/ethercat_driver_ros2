@@ -1,3 +1,4 @@
+2023.02.13 这是一个用来完善ros2系统的项目，我希望把ros2系统作为一个实时操作系统来运行我的模型。
 # ethercat_driver_ros2
 [![Licence](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Build](https://github.com/ICube-Robotics/ethercat_driver_ros2/actions/workflows/ci.yml/badge.svg)](https://github.com/ICube-Robotics/ethercat_driver_ros2/actions/workflows/ci.yml)
